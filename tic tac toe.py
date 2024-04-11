@@ -10,10 +10,6 @@ root.title("Tic-Tac-Toe")
 start=True
 count=0
 
-
-    
-
-
 #disabling buutons
 def disable_buttons():
     b1.config(state=DISABLED)
